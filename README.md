@@ -6,5 +6,5 @@ ReactNative
 SQLite
 Prisma
 
-Tabelas do Banco:
+Schema do banco em imagem:
 <img src="./server/prisma/ERD.svg">
