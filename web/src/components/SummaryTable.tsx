@@ -31,7 +31,7 @@ export function SummaryTable() {
         {amountOfDaysToFill > 0 &&
           Array.from({ length: amountOfDaysToFill }).map(() => {
             return (
-              <div className="w-10 h-10 bg-zinc-900 border-2 border-zinc-800 rounded-lg opacity-60 cursor-not-allowed"></div>
+              <div className="w-10 h-10 bg-zinc-900 border-2 border-zinc-800 rounded-lg opacity-60 cursor-not-allowed" />
             )
           })}
       </div>
